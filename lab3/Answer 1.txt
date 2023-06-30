@@ -1,0 +1,4 @@
+For the first model, the accuracy is 0.75 and the precision and recall for class 0 are good, but those for class 1 are lower.The model is reasonable but has some room for improvement.
+
+
+For the second model, the accuracy is 0.85 and the precision, recall, and F1-score for both classes are good.The model is good and performs well for both positive and negative cases.
